@@ -6,7 +6,7 @@
 </h5>
 <br>
 <p align="left">
-  Hi, I'm Luis Antonio Domínguez, a seismologist from Mexico. 
+  My name is Luis Antonio Domínguez, I'm geophysicist from Mexico. 
   <br>
   <br>
   🎓 I graduated from the University of California, Los Angeles. Currently, I work at UNAM, Mexico. 
