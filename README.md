@@ -9,11 +9,11 @@
   Hi, I'm Luis Antonio Domínguez, a seismologist from Mexico. 
   <br>
   <br>
-  🎓 I graduated from the University of California, Los Angeles. Currently, wroking at UNAM, Mexico. 
+  🎓 I graduated from the University of California, Los Angeles. Currently, I work at UNAM, Mexico. 
   <br>
-  💻 I love coding and walking my dog. On my free time I do 3D prints and work on personal electronic projects.  
+  💻 I love coding and walking my dog. In my free time, I do 3D prints and work on personal electronic projects
   <br>
-  🔬 I’m currently working on Django project. 
+  🔬 I’m currently learning aquascaping. 
   <br>
   💬 Ask me about <a href="https://github.com/ladominguez/ladominguez/issues" title="Issues">Here</a>
   <br>
