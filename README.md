@@ -1,13 +1,12 @@
 <h3 align="center">Hello there, I'm Luis Antonio 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/luis-antonio-dominguez-35977467/" title="LinkedIn"><img width="22" src="./images/linkedin.svg"> LinkedIn</a></code>
+  <ode><a href="https://www.researchgate.net/profile/Luis-Dominguez-4" title="Researchgate"><img width="22" src="./images/ResearchGate.svg"> ResearchGate</a></code>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Luis Antonio Domínguez, a seismology from Mexico. 
+<p align="left">
+  Hi, I'm Luis Antonio Domínguez, a seismologist from Mexico. 
   <br>
   <br>
   🎓 I graduated from the University of California, Los Angeles. Currently, wroking at UNAM, Mexico. 
