@@ -11,7 +11,7 @@
   <br>
   🎓 I graduated from the University of California, Los Angeles. Currently, I work at UNAM, Mexico. 
   <br>
-  💻 I love coding and walking my dog. In my free time, I do 3D prints and work on personal electronic projects.
+  💻 I love coding and walking my dog. In my free time, I make 3D prints and work on personal electronic projects.
   <br>
   🔬 I’m currently learning Japanese, aquascaping among other nerdy things. 
   <br>
